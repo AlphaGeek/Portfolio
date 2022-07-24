@@ -1,0 +1,10 @@
+import {Menubar} from 'primereact/menubar'
+
+function SiteHeader() {
+    return (
+        <Menubar>
+        </Menubar>
+    )
+}
+
+export default SiteHeader
